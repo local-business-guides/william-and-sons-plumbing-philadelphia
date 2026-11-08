@@ -22,6 +22,9 @@
 - [Trusted Plumber Philadelphia: Questions to Ask Before Hiring](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/trusted-plumber-philadelphia/): Find a Trusted Plumber Philadelphia customers can evaluate with clear questions and a simple checklist. Contact William & Sons Plumbing in Philadelphia today.
 - [Experienced Plumber Philadelphia: A Homeowner’s Hiring Guide](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/experienced-plumber-philadelphia/): Choose an Experienced Plumber Philadelphia homeowners can speak with clearly. Prepare your questions, explain the problem, and call William & Sons Plumbing to
 
+## Newsroom
+- [William & Sons Plumbing Shares Philadelphia Plumber Guide and Related Media](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/news/2026-11-08-william-sons-plumbing-shares-philadelphia-plumber/): William & Sons Plumbing published a Philadelphia Plumber guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [Philadelphia Plumber in Pennsylvania](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/): Get clear, practical plumbing help from William & Sons Plumbing in Philadelphia. Call +1215-826-3077.
 - [About William & Sons Plumbing](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/about/): About William & Sons Plumbing, Philadelphia.
@@ -29,4 +32,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/william-and-sons-plumbing-philadelphia/news/rss.xml)
 - [Main resource site](https://william-sons-philadelphia-plumbing.localbusinesses1.chatgpt.site)
